@@ -22,7 +22,8 @@ The server will start listening on port 3001 by default.
 1. Navigate to the `frontend` directory:
 2. Install dependencies: npm install
 3. Start the client application: npm run dev
-The client application will be accessible at `http://localhost:3000` by default.
+
+The client application will be accessible at `http://localhost:5173` by default.
 
 ## Architecture and Concurrency
 
