@@ -1,5 +1,3 @@
-# Kuvaka-Tech-Assignment
-
 # Chat Application
 
 This is a simple chat application built with React, Node.js, Express, and Socket.IO.
